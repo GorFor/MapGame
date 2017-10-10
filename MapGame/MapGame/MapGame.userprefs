@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1CF286F5-E076-4263-AFC5-8E4BACACC788}|Default">
+  <MonoDevelop.Ide.ItemProperties.MapGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapColors.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="9" />
+      <File FileName="Player.cs" Line="7" Column="9" />
+      <File FileName="Map.cs" Line="11" Column="9" />
+      <File FileName="SwordRoom.cs" Line="20" Column="10" />
+      <File FileName="KeyRoom.cs" Line="15" Column="28" />
+      <File FileName="MonsterRoom.cs" Line="24" Column="1" />
+      <File FileName="Key.cs" Line="10" Column="3" />
+      <File FileName="Door.cs" Line="18" Column="1" />
+      <File FileName="Wall.cs" Line="1" Column="1" />
+      <File FileName="MapItem.cs" Line="6" Column="9" />
+      <File FileName="MapColors.cs" Line="6" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

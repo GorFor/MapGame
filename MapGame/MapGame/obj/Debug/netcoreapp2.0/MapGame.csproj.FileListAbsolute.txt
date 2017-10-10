@@ -1,0 +1,11 @@
+/Users/goranforsberg/Projects/MapGame/MapGame/bin/Debug/netcoreapp2.0/MapGame.deps.json
+/Users/goranforsberg/Projects/MapGame/MapGame/bin/Debug/netcoreapp2.0/MapGame.runtimeconfig.json
+/Users/goranforsberg/Projects/MapGame/MapGame/bin/Debug/netcoreapp2.0/MapGame.runtimeconfig.dev.json
+/Users/goranforsberg/Projects/MapGame/MapGame/bin/Debug/netcoreapp2.0/MapGame.dll
+/Users/goranforsberg/Projects/MapGame/MapGame/bin/Debug/netcoreapp2.0/MapGame.pdb
+/Users/goranforsberg/Projects/MapGame/MapGame/obj/Debug/netcoreapp2.0/MapGame.csprojResolveAssemblyReference.cache
+/Users/goranforsberg/Projects/MapGame/MapGame/obj/Debug/netcoreapp2.0/MapGame.csproj.CoreCompileInputs.cache
+/Users/goranforsberg/Projects/MapGame/MapGame/obj/Debug/netcoreapp2.0/MapGame.AssemblyInfoInputs.cache
+/Users/goranforsberg/Projects/MapGame/MapGame/obj/Debug/netcoreapp2.0/MapGame.AssemblyInfo.cs
+/Users/goranforsberg/Projects/MapGame/MapGame/obj/Debug/netcoreapp2.0/MapGame.dll
+/Users/goranforsberg/Projects/MapGame/MapGame/obj/Debug/netcoreapp2.0/MapGame.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B55AD07C-7EB0-4176-B9F9-3DA1D4210AAC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MapGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapGame/Map.cs">
+    <Files>
+      <File FileName="MapGame/Program.cs" Line="16" Column="16" />
+      <File FileName="MapGame/Door.cs" Line="1" Column="1" />
+      <File FileName="MapGame/Map.cs" Line="191" Column="18" />
+      <File FileName="MapGame/Player.cs" Line="4" Column="28" />
+      <File FileName="MapGame/MapItem.cs" Line="32" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
